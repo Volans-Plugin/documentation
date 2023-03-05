@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvolansdocs=self.webpackChunkvolansdocs||[]).push([[331],{4076:e=>{e.exports=JSON.parse('{"permalink":"/changelog","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Changelog"}')}}]);

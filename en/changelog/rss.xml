@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Volans Blog</title>
-        <link>https://docs.volans.builders/en/blog</link>
+        <link>https://docs.volans.builders/en/changelog</link>
         <description>Volans Blog</description>
         <lastBuildDate>Sun, 26 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[v1.5.0]]></title>
-            <link>https://docs.volans.builders/en/blog/v1.5.0</link>
+            <link>https://docs.volans.builders/en/changelog/v1.5.0</link>
             <guid>v1.5.0</guid>
             <pubDate>Sun, 26 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Erste Beta für Custom Biome]]></description>
