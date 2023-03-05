@@ -3,6 +3,8 @@ sidebar_position: 6
 id: slabselect
 title: Slab Select
 ---
+### Beschreibung
+* WIP
 ### Konfiguration
 Trage in die Liste `features` in der Sektion `volans` den String `"SlabSelect"` ein.
 ### Permissions

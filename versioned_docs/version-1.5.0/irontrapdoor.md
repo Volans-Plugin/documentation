@@ -3,6 +3,8 @@ sidebar_position: 7
 id: irontrapdoor
 title: Iron Trap Door
 ---
+### Beschreibung
+* WIP
 ### Konfiguration
 Trage in die Liste `features` in der Sektion `volans` den String `"IronTrapDoor"` ein.
 ### Permissions

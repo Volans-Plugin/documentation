@@ -3,6 +3,8 @@ sidebar_position: 5
 id: invisibleitemframe
 title: Invisible Item Frame
 ---
+### Beschreibung
+Klein aber oho! Mit den unsichtbaren Itemrahmen werden Köpfe,Items oder Bilder auf Karten besonders. Mit diesem Feature spart man sich ein weiteres Plugin auf dem Server.
 ### Konfiguration
 Trage in die Liste `features` in der Sektion `volans` den String `"InvisibleItemFrame"` ein.
 ### Permissions
