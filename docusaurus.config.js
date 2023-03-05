@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'volans-plugin', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+  projectName: 'documentation', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -47,7 +47,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editLocalizedFiles: true,
           editUrl:
-            'https://github.com/volans-plugin/docs/tree/main/',
+            'https://github.com/volans-plugin/documentation/tree/main/',
         },
         blog: {
           blogTitle: 'Changelog',
@@ -55,7 +55,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/volans-plugin/docs/tree/main/',
+            'https://github.com/volans-plugin/documentation/tree/main/',
           postsPerPage: 'ALL'
         },
         theme: {
