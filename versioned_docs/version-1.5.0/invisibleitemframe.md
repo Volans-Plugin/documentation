@@ -1,17 +1,17 @@
 ---
-sidebar_position: 99
+sidebar_position: 5
 id: invisibleitemframe
 title: Invisible Item Frame
 ---
 ### Konfiguration
-Trage in die Liste `features` in der Sektion `volans` den String `"InvisibleItemFrame"` ein
+Trage in die Liste `features` in der Sektion `volans` den String `"InvisibleItemFrame"` ein.
 ### Permissions
 Siehe [hier](/docs/Permissions/#invisible-item-frame)
 ### Benutzung
-1. Benutzer den befehel `/invisibleitemframe` um dir ein Item Frame zu geben.
-   1. Du kannst dir auch mehre mit `/invisibleitemframe <anzahl>` geben
-2. Setze ein ItemFrame nun auf eine Oberfläche
-3. Rechts-Klicke mit einem Item/Karte auf das ItemFrame 
+1. Benutze den befehl `/invisibleitemframe`, um dir ein Itemframe zu geben.
+   1. Du kannst dir auch mehrere mit `/invisibleitemframe <anzahl>` geben.
+2. Setze ein Itemframe nun auf eine Oberfläche.
+3. Klicke rechts mit einem Item/Karte auf das Itemframe.
 ### Bilder
 ![invisible itemframe item.png](/assets/image/invisibleitemframe/inventory_item.png)
 
