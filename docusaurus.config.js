@@ -47,14 +47,16 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editLocalizedFiles: true,
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/volans-plugin/docs/tree/main/',
         },
         blog: {
+          blogTitle: 'Changelog',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/volans-plugin/docs/tree/main/',
+          postsPerPage: 'ALL'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -73,6 +75,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {to: 'blog', label: 'Changelog', position: 'left'},
           {
             type: 'doc',
             docId: "overview",
