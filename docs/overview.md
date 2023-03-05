@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
 title: Volans - Übersicht
-description: Overview of Volans
-sidebar_label: Overview
+description: Übersicht von Volans
+sidebar_label: Übersicht
 ---
