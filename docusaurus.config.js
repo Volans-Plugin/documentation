@@ -50,6 +50,7 @@ const config = {
             'https://github.com/volans-plugin/documentation/tree/main/',
         },
         blog: {
+          routeBasePath: 'changelog',
           blogTitle: 'Changelog',
           showReadingTime: true,
           // Please change this to your repo.
@@ -82,7 +83,7 @@ const config = {
             activeBasePath: "docs",
             label: 'Documentation',
           },
-          {to: 'blog', label: 'Changelog', position: 'left'},
+          {to: 'changelog', label: 'Changelog', position: 'left'},
           {
             type: 'search',
             position: 'right',
