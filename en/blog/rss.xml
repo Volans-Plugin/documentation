@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Volans Blog</title>
+        <link>https://docs.volans.builders/en/blog</link>
+        <description>Volans Blog</description>
+        <lastBuildDate>Sun, 26 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[v1.5.0]]></title>
+            <link>https://docs.volans.builders/en/blog/v1.5.0</link>
+            <guid>v1.5.0</guid>
+            <pubDate>Sun, 26 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Erste Beta für Custom Biome]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gefixt">Gefixt<a class="hash-link" href="#gefixt" title="Direct link to heading">​</a></h2><ul><li>Speed Command beim Fliegen mit der Elytra.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="hinzugefügt">Hinzugefügt<a class="hash-link" href="#hinzugefügt" title="Direct link to heading">​</a></h2><ul><li>Custom Biome Support (🆘 <strong>Still Beta / Use of own risk</strong> 🆘)(<code>"CustomBiome"</code> für die config file)</li><li>Slab Select (<code>"SlabSelect"</code> für die config file)<ul><li>Ermöglicht es, Slabs besser zu setzen</li></ul></li><li>Trap Door (<code>"IronTrapDoor"</code> für die Config file)<ul><li>Erlaubt es, mit einer Eisenfalltür/Item in der Hand ohne Redstone Eisenfalltüren zu ändern</li></ul></li><li>Permissions Bundles - Faast mehere Permissions zusammen<ul><li><code>volans.bundle.creative</code> geeignet für Kreativ Server</li><li><code>volans.bundle.build</code> geeignet für Team-Bau Server</li></ul></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="geändert">Geändert<a class="hash-link" href="#geändert" title="Direct link to heading">​</a></h2><ul><li>Geänderte Permission für mehr Übersicht<ul><li><code>volans.brushit.admin</code> -&gt; <code>volans.command.brushit</code></li><li><code>volans.paintit.admin</code> -&gt; <code>volans.command.paintit</code></li><li><code>volans.gopaint.use</code> -&gt; <code>volans.paintit.use</code></li><li><code>volans.clipboardsync.command.copy</code> -&gt; <code>volans.command.clipboardsync.copy</code></li><li><code>volans.clipboardsync.command.paste</code> -&gt; <code>volans.command.clipboardsync.paste</code></li><li><code>volans.editSign</code> -&gt; <code>volans.editsign.use</code></li><li><code>volans.home.delete</code> -&gt; <code>volans.command.home.delete</code></li><li><code>volans.home.delete.other</code> -&gt; <code>volans.command.home.delete.other</code></li><li><code>volans.item.invisibleitemframe</code> -&gt; <code>volans.invisibleitemframe.use</code></li><li><code>volans.physics.other</code> -&gt; <code>volans.command.noblockphysics.other</code></li><li><code>volans.schemaupload.command.upload</code> -&gt; <code>volans.command.schemaupload</code></li><li><code>volans.feature.slabselect.use</code> -&gt; <code>volans.slabselect.use</code></li><li><code>volans.feature.trapdoor.use</code> -&gt; <code>volans.trapdoor.use</code></li></ul></li><li>Überarbeitete Codestrukturen </li><li>Besseres Permission Handling intern</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bekannte-bugs"><strong>Bekannte Bugs</strong><a class="hash-link" href="#bekannte-bugs" title="Direct link to heading">​</a></h2><ul><li><strong>Kaputter Leder Armor Editor wenn man Items ins Inventar packt, allerdings nur temporär. Ein Verlassen und Betreten des Servers resettet diesen Bug</strong></li><li>Glow Item Frame wirft aktuell Fehler in der Konsole (nicht kritisch)</li></ul>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
