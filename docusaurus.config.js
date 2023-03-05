@@ -75,7 +75,6 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {to: 'blog', label: 'Changelog', position: 'left'},
           {
             type: 'doc',
             docId: "overview",
@@ -83,6 +82,7 @@ const config = {
             activeBasePath: "docs",
             label: 'Documentation',
           },
+          {to: 'blog', label: 'Changelog', position: 'left'},
           {
             type: 'search',
             position: 'right',
@@ -96,7 +96,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/volans/docs',
+            href: 'https://github.com/volans/documentation',
             label: 'GitHub',
             position: 'right',
           },
@@ -133,7 +133,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/volans-plugin/volans',
+                href: 'https://github.com/volans-plugin/documentation',
               },
             ],
           },
