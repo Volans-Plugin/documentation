@@ -18,6 +18,7 @@ Siehe [hier](/docs/Permissions/#home-system)
 5. Um ein Home von anderen Buildern zu verwalten, gebe stets den Namen der Person mit an, z.B. `/home Seelenretterin:test` um dich zu dem Home der Person zu teleportieren.
 6. Man kann die Homes von anderen Buildern anschauen mit `/homes und Namen des Builders`, z.B. `/homes Seelenretterin`
 7. Löschen von Homes von anderen Buildern funktioniert nach demselben Prinzip, aber diese Funktion sollten nur Administratoren oder verantwortliche Personen verwenden.
+8. Wichtig: Es können aktuell unbegrenzt viele Home Punkte erstellt werden, die aktuell pro UUID in einer Datei gespeichert werden.
 ### Bilder
 - Aktuell keine
 ### Videos
