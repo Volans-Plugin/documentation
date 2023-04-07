@@ -11,7 +11,7 @@ Trage in die Liste `features` in der Sektion `volans` den String `"LeatherArmorE
 Siehe [hier](/docs/Permissions/#leather-armor-editor)
 ### Benutzung
 1. Mit dem Befehl im Chat `/leatherarmoreditor` oder `/lae` öffnest du das Hauptmenü dieser Funktion.
-2. Du kannst nun auf ein Lederrüstungsteil linksklicken.
+2. Du kannst nun auf ein Lederrüstungsteil links klicken.
 3. In dem Untermenü kannst du die Farbe für das ausgewählte Rüstungsteil mixen und auch Schritte zurück oder vorgehen.
 4. Wenn du mit dem Mixen fertig bist, kannst du auf den Redstone Knopf oben links drücken und weitere Rüstungsteile bearbeiten.
 5. Solltest du fertig sein (du musst nicht alles bearbeiten), kannst du im Hauptmenü dieser Funktion auf den Armorstand drücken, um dir die Rüstungsteile ins Inventar zu legen.
