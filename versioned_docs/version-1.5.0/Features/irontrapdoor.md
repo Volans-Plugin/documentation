@@ -4,7 +4,7 @@ id: irontrapdoor
 title: Iron Trap Door
 ---
 ### Beschreibung
-* WIP
+* Eine Eisenfalltür kannst du normalerweise nur mit Redstone auf- und zuklappen. Mit diesem Feature ist es dir möglich, ohne Redstone diese zu bewegen.
 ### Konfiguration
 Trage in die Liste `features` in der Sektion `volans` den String `"IronTrapDoor"` ein.
 ### Permissions
