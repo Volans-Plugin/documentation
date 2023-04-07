@@ -1,5 +1,5 @@
 ---
-sidebar_position: 13
+sidebar_position: 14
 id: togglevillager
 title: Toggle Villager
 ---
@@ -10,7 +10,7 @@ Trage in die Liste `features` in der Sektion `volans` den String `"ToggleVillage
 ### Permissions
 Siehe [hier](/docs/Permissions/#toggle-villager)
 ### Benutzung
-1. Der Befehl /togglevillager entfernt pro Welt (!) mit dem zweiten Befehl /volans confirm die nervigen Villager. Die Permissions dazu müssen logischerweise für den Sender des Befehls gesetzt sein. 
+1. Der Befehl `/togglevillager` entfernt pro Welt (!) mit dem zweiten Befehl `/volans confirm` die nervigen Villager. Die Permissions dazu müssen logischerweise für den Sender des Befehls gesetzt sein. 
 ### Bilder
 - Aktuell keine
 ### Videos
