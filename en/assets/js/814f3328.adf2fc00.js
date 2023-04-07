@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvolansdocs=self.webpackChunkvolansdocs||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"v1.5.0","permalink":"/en/changelog/v1.5.0"}]}')}}]);
