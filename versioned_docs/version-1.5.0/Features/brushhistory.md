@@ -10,7 +10,7 @@ Trage in die Liste `features` in der Sektion `volans` den String `"SchemaUpload"
 ### Permissions
 Siehe [hier](/docs/Permissions/#schema-upload)
 ### Benutzung
-1. WIP
+1. 
 ### Bilder
 - Aktuell keine
 ### Videos
