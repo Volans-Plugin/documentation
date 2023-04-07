@@ -109,7 +109,7 @@ title: Permissions
 |-------------------------------|--------------|
 | volans.command.toggleeditsign |              |
 
-### Trapdoor
+### Iron Trapdoor
 
 | Permission          | Beschreibung | 
 |---------------------|--------------|
