@@ -97,7 +97,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/volans/documentation',
+            href: 'https://github.com/volans-plugin/documentation',
             label: 'GitHub',
             position: 'right',
           },
