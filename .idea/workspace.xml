@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d844cb8b-091f-404d-bd56-addf2c466a10" name="Changes" comment="Improve permission bundles">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/brushhistory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/brushit(wip).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/clipboardsync.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/custombiome(wip).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/editsign.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/home.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/invisibleitemframe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/irontrapdoor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/leatherarmoreditor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/nightvision.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/noblockphysics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/paintit(wip).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/schemaupload.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/skull.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/slabselect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/speed.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/togglesigneditor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Features/togglevillager.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Permissions/bundles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Permissions/permissions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Setup/configuration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Setup/installation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Setup/requirements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Setup/s3-minio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/Setup/setup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/brushhistory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/brushit(wip).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/clipboardsync.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/custombiome(wip).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/editsign.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/home.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/invisibleitemframe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/irontrapdoor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/leatherarmoreditor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/nightvision.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/noblockphysics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/paintit(wip).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/schemaupload.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/skull.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/slabselect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/speed.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/togglesigneditor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Features/togglevillager.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Permissions/bundles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Permissions/permissions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Setup/configuration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Setup/installation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Setup/requirements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Setup/s3-minio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/Setup/setup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/version-1.5.0/overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="OneLiteFeather &lt;schauderkristall@hotmail.de&gt;" />
+        <option value="OneLiteFeather" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2O1NrQPCvem8DHWVUh5I5iWBwaL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "develop",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Miche/WebstormProjects/documentation/i18n/en/docusaurus-plugin-content-docs/current",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "C:\\Users\\Miche\\WebstormProjects\\documentation\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Miche\WebstormProjects\documentation\i18n\en\docusaurus-plugin-content-docs\current" />
+      <recent name="C:\Users\Miche\WebstormProjects\documentation\i18n\en\docusaurus-plugin-content-docs" />
+      <recent name="C:\Users\Miche\WebstormProjects\documentation\docs\Permissions" />
+      <recent name="C:\Users\Miche\WebstormProjects\documentation\versioned_docs\version-1.5.0\Features" />
+      <recent name="C:\Users\Miche\WebstormProjects\documentation\versioned_docs\version-1.5.0" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Miche\WebstormProjects\documentation\versioned_docs\version-1.5.0" />
+      <recent name="C:\Users\Miche\WebstormProjects\documentation\versioned_docs\version-1.5.0\Features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.startEN">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="startEN" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="startEN" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.startEN" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d844cb8b-091f-404d-bd56-addf2c466a10" name="Changes" comment="" />
+      <created>1680724327632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680724327632</updated>
+      <workItem from="1680724340569" duration="408000" />
+      <workItem from="1680724792754" duration="166000" />
+      <workItem from="1680724980377" duration="11605000" />
+      <workItem from="1680860467836" duration="17356000" />
+      <workItem from="1680963233433" duration="2053000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add home system">
+      <created>1680727608627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680727608627</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix typo">
+      <created>1680728502742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680728502742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add 8. on Benutzung">
+      <created>1680728728681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680728728681</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add nightvision documentation">
+      <created>1680729169661</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680729169661</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add skull documentation">
+      <created>1680729957582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680729957582</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add skull history documentation">
+      <created>1680730492547</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680730492547</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add noblockphysics documentation">
+      <created>1680731421683</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680731421683</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add leatherarmoreditor documentation">
+      <created>1680733940589</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680733940589</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix sidebar postion">
+      <created>1680734005917</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680734005917</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add documentation">
+      <created>1680787844828</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680787844828</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Move documentation files to Features directory and added description of slab select">
+      <created>1680862586878</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680862586878</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add documentation and fixed sidebar_position">
+      <created>1680881943810</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680881943810</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add documentation">
+      <created>1680884674460</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680884674460</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add documentation and sidebar_position">
+      <created>1680884707625</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680884707625</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add documentation">
+      <created>1680887513520</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680887513520</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Change sidebar_position to Config position">
+      <created>1680892143240</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680892143240</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fix naming of iron trapdoor feature">
+      <created>1680892747640</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680892747640</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add description">
+      <created>1680892778372</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680892778372</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add new files for documentation and fixed slabselect">
+      <created>1680893289499</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680893289499</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Rename for capital letter reasons">
+      <created>1680895345902</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680895345902</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Improve permission bundles">
+      <created>1680897306282</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1680897306282</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Improve permission bundles">
+      <created>1680897393119</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680897393119</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add home system" />
+    <MESSAGE value="Fix typo" />
+    <MESSAGE value="Add 8. on Benutzung" />
+    <MESSAGE value="Add nightvision documentation" />
+    <MESSAGE value="Add skull documentation" />
+    <MESSAGE value="Add skull history documentation" />
+    <MESSAGE value="Add noblockphysics documentation" />
+    <MESSAGE value="Add leatherarmoreditor documentation" />
+    <MESSAGE value="Fix sidebar postion" />
+    <MESSAGE value="Move documentation files to Features directory and added description of slab select" />
+    <MESSAGE value="Add documentation and fixed sidebar_position" />
+    <MESSAGE value="Add documentation and sidebar_position" />
+    <MESSAGE value="Add documentation" />
+    <MESSAGE value="Change sidebar_position to Config position" />
+    <MESSAGE value="Fix naming of iron trapdoor feature" />
+    <MESSAGE value="Add description" />
+    <MESSAGE value="Add new files for documentation and fixed slabselect" />
+    <MESSAGE value="Rename for capital letter reasons" />
+    <MESSAGE value="Improve permission bundles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improve permission bundles" />
+  </component>
+</project>
