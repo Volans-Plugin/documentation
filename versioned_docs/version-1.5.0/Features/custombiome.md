@@ -13,7 +13,7 @@ Siehe [hier](/docs/Permissions/#biome-editor)
 ### Benutzung
 1. Öffne den Biomeditor mit `/be` oder `/biomeeditor`
 2. Klicke auf die Items in dem Inventar, um die Farbe von der jeweiligen Kategorie zu setzen.
-3. Du kannst RGB Farben mit dem Nametag eingeben oder die Farbe mit den Farbstoffen anpassen und mit der Maus über den Block streichen, um die Vorschau zu sehen.
+3. Du kannst RGB Farben mit dem Namensschild eingeben oder die Farbe mit den Farbstoffen anpassen und mit der Maus über den Block streichen, um die Vorschau zu sehen.
 4. Wenn du alle Kategorien eingestellt hast oder fertig bist (Standard Farbe ist schwarz ansonsten), speichere das Biom unter dem Buch, indem du darauf klickst und nach dem Erhalten rechtsklick machst.
 5. Schreibe einen für dich passenden Biomnamen (bitte kleinschreiben) und signiere dein Buch (was da steht, ist nicht relevant zum Speichern).
 6. Das Biom wurde gespeichert und kann mit `Brushes von FastAsyncWorldEdit` und `$volans:<biomname>` genutzt werden, z.B. mit `//br sphere $volans:blue`
