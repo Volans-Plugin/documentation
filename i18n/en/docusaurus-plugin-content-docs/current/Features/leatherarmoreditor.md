@@ -4,20 +4,20 @@ id: leatherarmoreditor
 title: Leather Armor Editor
 ---
 ### Description
-* Der Lederrüstungseditor ist eine GUI (Menü), was für die einfachere und effiziente Erstellung von Lederrüstungen existiert.
+* The leatherarmoreditor is a GUI (menu), which exists for the simple and efficient editing of leather armor.
 ### Configuration
 Add in the list `features` in the section `volans` the string `"LeatherArmorEditor"`.
 ### Permissions
 See [here](/docs/Permissions/#leather-armor-editor)
 ### Utilisation
-1. Mit dem Befehl im Chat `/leatherarmoreditor` oder `/lae` öffnest du das Hauptmenü dieser Funktion.
-2. Du kannst nun auf ein Lederrüstungsteil links klicken.
-3. In dem Untermenü kannst du die Farbe für das ausgewählte Rüstungsteil mixen und auch Schritte zurück oder vorgehen.
-4. Wenn du mit dem Mixen fertig bist, kannst du auf den Redstone Knopf oben links drücken und weitere Rüstungsteile bearbeiten.
-5. Solltest du fertig sein (du musst nicht alles bearbeiten), kannst du im Hauptmenü dieser Funktion auf den Armorstand drücken, um dir die Rüstungsteile ins Inventar zu legen.
-6. Solltest du die Rüstung komplett speichern wollen, kannst du auf dem Hauptmenü rechts unten auf das Buch drücken, das Buch in deinem Inventar rechtsklicken, und einen Namen für die Lederrüstung eingeben (der Name für die Signatur ist egal).
-7. Wenn du vorhandene Rüstungen wieder laden möchtest, gebe dafür `/lae` und den Namen der Rüstung ein.
+1. With the command `/leatherarmoreditor` or `/lae` in chat, you can open the main menu of this feature.
+2. You can now left-click a leatherarmor piece.
+3. In this submenu you can mix the color for the chosen leatherarmor piece also you can undo/redo steps.
+4. When you are done with the mixing you can press the redstone button to go back and continue editing armor pieces.
+5. If you are done with your leatherarmor set (you don't need to edit everything) you can press the armorstand button in the main menu of this feature to get the leatherarmorset into your inventory.
+6. If you want to save the leatherarmorset you can press the book on the main menu (left click), right-click the book in your inventory and set a name for the leatherarmorset (the name of the signature doesn't matter).
+7. To load the saved leatherarmor, you have to write `/lae` and the name of the leatherarmorset.
 ### Pictures
-- Aktuell keine
+- None at the moment
 ### Videos
-- Aktuell keine
+- None at the moment
