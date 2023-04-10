@@ -4,14 +4,14 @@ id: nightvision
 title: Night Vision
 ---
 ### Description
-* Night Vision (auf Deutsch Nachtsicht) erlaubt es dir, permanent auf dem Server im Dunkeln Nachtsicht zu haben und diesen ein- oder auszustellen. Dies ist dafür gedacht, um als Builder keine Potions oder komplexe Befehle nutzen zu müssen.
+* Night Vision allows you to see in the dark permanently and to toggle that feature with a command. The idea behind is to make it easier for builders to see in the dark without potion or complex give commands.
 ### Configuration
 Add in the list `features` in the section `volans` the string `"NightVision"`.
 ### Permissions
 See [here](/docs/Permissions/#night-vision)
 ### Utilisation
-1. Im Chat mit der Eingabe `/nightvision` oder `/nv` und Enter lässt sich die Nachtsicht an- und mit demselben Befehl wieder ausstellen.
+1. With the input `/nightvision` or `/nv` and enter you can toggle the nightvision.
 ### Pictures
-- Aktuell keine
+- None at the moment
 ### Videos
-- Aktuell keine
+- None at the moment
