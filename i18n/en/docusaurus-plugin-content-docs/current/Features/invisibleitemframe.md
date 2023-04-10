@@ -4,20 +4,20 @@ id: invisibleitemframe
 title: Invisible Item Frame
 ---
 ### Description
-Mit den unsichtbaren Itemrahmen werden Köpfe,Items oder Bilder auf Karten besonders.
+With the invisible itemframe, heads, items or pictures on maps are going to be special.
 ### Configuration
 Add in the list `features` in the section `volans` the string `"InvisibleItemFrame"`.
 ### Permissions
 See [here](/docs/Permissions/#invisible-item-frame)
 ### Utilisation
-1. Benutze den befehl `/invisibleitemframe`, um dir ein Itemframe zu geben.
-   1. Du kannst dir auch mehrere mit `/invisibleitemframe <anzahl>` geben.
-2. Setze ein Itemframe nun auf eine Oberfläche.
-3. Klicke rechts mit einem Item/Karte auf das Itemframe.
+1. Use the command `/invisibleitemframe` to give yourself an invisible itemframe.
+   1. You also can give yourself multiple ones with `/invisibleitemframe <amount>`
+2. Place the itemframe on a block.
+3. Right-click with an item/map on the itemframe
 ### Pictures
 ![invisible itemframe item.png](/assets/image/invisibleitemframe/inventory_item.png)
 
 ![Invisible itemfram haning.png](/assets/image/invisibleitemframe/item_hanging.png)
 ![Invisible itemfram using.png](/assets/image/invisibleitemframe/item_using.png)
 ### Videos
-- Aktuell keine
+- None at the moment
