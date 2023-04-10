@@ -12,6 +12,6 @@ See [here](/docs/Permissions/#paintit)
 ### Utilisation
 1. 
 ### Pictures
-- Aktuell keine
+- None at the moment
 ### Videos
-- Aktuell keine
+- None at the moment
