@@ -4,16 +4,16 @@ id: toggleeditsign
 title: Toggle Edit Sign
 ---
 ### Description
-* Dieses Feature ermöglicht dir, ohne NBT Daten zu speichern, mit einem Befehl Schilder als Dekoration ohne Schildermenü zu setzen. 
-* Achte darauf, dass die Aktivierung von dem Befehl das Volans Feature EditSign blockiert. Du kannst also nicht gleichzeitig Schilder ohne Schildermenü setzen und dann wieder beschreiben.
+* This feature allows you to set signs for decoration with one toggleable command without saving NBT data on your own. 
+* You can't use **edit sign** and **toggle edit sign** at the same time. If you toggle writing on signs you can't reedit them.
 ### Configuration
 Add in the list `features` in the section `volans` the string `"ToggleSignEditor"`.
 ### Permissions
 See [here](/docs/Permissions/#toggle-edit-sign)
 ### Utilisation
-1. Wenn du die Schilder ohne das Schildmenü setzen möchtest, gebe `/toggleeditsign` oder `/tes` ein.
-2. Wenn du denselben Befehl noch einmal eingibst, kannst du diese Funktion wieder deaktivieren.
+1. You would like to set signs without the sign menu? Write `/toggleeditsign` or `/tes` in your chat and press enter.
+2. If you repeat entering the command, the feature is deactivated/activated.
 ### Pictures
-- Aktuell keine
+- None at the moment
 ### Videos
-- Aktuell keine
+- None at the moment
