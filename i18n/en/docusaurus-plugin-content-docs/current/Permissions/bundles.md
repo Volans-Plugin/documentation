@@ -7,7 +7,7 @@ title: Bundles
 ```text
 volans.bundle.creative
 ```
-Damit enthalten:
+Containing:
 - volans.command.help
 - volans.trapdoor.use
 - volans.command.toggleeditsign
@@ -35,7 +35,7 @@ Damit enthalten:
 ```text
 volans.bundle.build
 ```
-Damit enthalten:
+Containing:
 - **volans.bundle.creative**
 - volans.command.togglevillager
 - volans.command.schemaupload
