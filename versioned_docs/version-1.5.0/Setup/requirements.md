@@ -10,13 +10,13 @@ title: Anforderungen
 ### Minimale Anforderungen
 - 2 GB Arbeitsspeicher
 - 4 (Virtuelle-)Kerne
-- 1.19 [Paper Server](https://papermc.io/)
+- 1.18.2 [Paper Server](https://papermc.io/)
 - Java 17
 
 ### Empfohlen
 - 4-8 GB Arbeitsspeicher
 - 8 (Virtuelle-)Kerne
-- 1.19.3 [Paper Server](https://papermc.io/)
+- 1.19.4 [Paper Server](https://papermc.io/)
 - **FastAsyncWorldEdit**
 - **ProtocolLib**
 

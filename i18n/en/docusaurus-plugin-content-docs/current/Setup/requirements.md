@@ -1,27 +1,27 @@
 ---
 sidebar_position: 1
 id: requirements
-title: Anforderungen
+title: Requirements
 ---
 
 
 ## Minecraft Server
 
-### Minimale Anforderungen
-- 2 GB Arbeitsspeicher
-- 4 (Virtuelle-)Kerne
-- 1.19 [Paper Server](https://papermc.io/)
+### Minimal requirements
+- 2 GB RAM
+- 4 (virtual-) CPU cores
+- 1.18.2 [Paper Server](https://papermc.io/)
 - Java 17
 
-### Empfohlen
-- 4-8 GB Arbeitsspeicher
-- 8 (Virtuelle-)Kerne
-- 1.19.3 [Paper Server](https://papermc.io/)
+### Recommended
+- 4-8 GB RAM
+- 8 (virtual-) CPU cores
+- 1.19.4 [Paper Server](https://papermc.io/)
 - **FastAsyncWorldEdit**
 - **ProtocolLib**
 
 :::caution
-Volans kann auch ohne FAWE (FastAsyncWorldEdit) und ProtocolLib arbeiten. Dadurch werden folgende Funktionen deaktiviert:
+Volans does work without FAWE (FastAsyncWorldEdit) and ProtocolLib. Without the plugins, the following features are deactivated:
 - PaintIt
 - BrushIt
 - Brush History
@@ -31,11 +31,11 @@ Volans kann auch ohne FAWE (FastAsyncWorldEdit) und ProtocolLib arbeiten. Dadurc
 :::
 
 
-### Temporäre Daten
-Zum Verwalten des Clipboard Sync wird folgende Datenbank benötigt
+### Temporary files
+To administrate and to use the Clipboard Sync, following database is needed:
 - Redis/KeyDB
 
-## Speicher
-### Persistente Daten
-Zum Speichern von Schematic Dateien in der "Cloud" wird folgende Technologie benötigt
+## Storage
+### Persistent data
+To save schematic files in the "cloud", following technology is needed:
 - S3
