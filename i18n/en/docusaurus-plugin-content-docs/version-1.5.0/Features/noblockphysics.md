@@ -3,17 +3,17 @@ sidebar_position: 7
 id: noblockphysics
 title: Noblockphysics
 ---
-### Beschreibung
-* Mit der Noblockphysics ist es möglich, pro Welt und pro ausgewähltem Block dessen Physik an- oder auszustellen.
-### Konfiguration
+### Description
+* With the noblockphysics it is possible to change block physics for each world and for each chosen block.
+### Configuration
 Add in the list `features` in the section `volans` the string `"NoBlockPhysics"`.
 ### Permissions
-Siehe [hier](/docs/Permissions/#no-block-physics)
-### Benutzung
-1. Im Chat mit der Eingabe `/noblockphysics` und den Block, den du deaktivieren oder aktivieren möchtest (oder `/nv` als Alias) und Enter, z.B. `/noblockphysics SAND`
-2. Denselben Befehl mit dem gleichen Block eingegeben, aktiviert die Block-Physik wieder.
-3. Manche Blöcke gehen unter Umständen noch nicht, wenn du welche findest, kannst du diese gerne als Feature anfragen.
-### Bilder
-- Aktuell keine
+See [here](/docs/Permissions/#no-block-physics)
+### Utilisation
+1. With the command `/noblockphysics` and the block you want to toggle block physics (or `/nv` as alias) and enter, for example `/noblockphysics SAND`
+2. With the same command you can activate the block physics.
+3. Some blocks won't work yet. If you find some, you can suggest them as a feature.
+### Pictures
+- None at the moment
 ### Videos
-- Aktuell keine
+- None at the moment

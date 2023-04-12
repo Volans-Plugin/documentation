@@ -4,22 +4,22 @@ id: clipboardsync
 title: Clipboard Sync
 ---
 ### Description
-* Für dieses Feature wird ein **Redis benötigt**, siehe Konfiguration.
-* Um ohne eine Schematic kopierte Bauten von einem Server zum anderen Server einzufügen, wird das Clipboard Sync gebraucht. Dabei werden keine .schematic Dateien erstellt, sondern deine Zwischenablage in die Redis Datenbank geladen.
-* Wie lange deine Zwischenablage in dem Redis (ohne dass du diese überschreibst) verweilen darf, bis sie wieder gelöscht wird, kannst du in der Config einstellen, wobei du den default Wert ändern kannst.
+* For this feature a **Redis is necessary**, see configuration.
+* The Clipboard Sync is needed to copy and paste builds from one server to a different server (on same network) without saving them as a schematic file.
+* You can set the duration the clipboard is stored on Redis (without overriding data) until it will be deleted. To do that, you can edit the default value on the config.
 ### Configuration
 Add in the list `features` in the section `volans` the string `"ClipboardSync"`.
 ### Permissions
-Siehe [hier](/docs/Permissions/#clipboard-sync)
+See [here](/docs/Permissions/#clipboard-sync)
 ### Utilisation
-1. Markiere dein Gebautes mit `//pos1` und `//pos2` oder mit der Worldedit Axt.
-2. Kopiere dein Gebautes mit `//copy` (und optionalen Parametern -e oder -b).
-3. Lade mit `/gcopy` deine Zwischenablage hoch auf den Redis Server, wichtig dabei ist, dass dein Zielserver zum Einfügen auch Volans mit dem Feature aktiviert ist und alles richtig konfiguriert wurde.
-4. Wenn du eine Feedback-Nachricht im Chat erhalten hast, kannst du den Server wechseln.
-5. Stelle sicher, dass du auf dem Zielserver, auf dem du gewechselt bist, dein Clipboard mit /clearclipboard geleert hast, da dies Probleme machen kann.
-6. Lade nun mit `/gpaste` deine Zwischenablage aus dem Redis.
-7. Du kannst nun wie gewohnt dein Gebautes mit `//paste` (und optionalen Parametern wie -e, -a oder -b) einfügen.
+1. Select your build with `//pos1` and `//pos2` or with the worldedit axe.
+2. Copy your build with `//copy` (and optional parameters -e or -b).
+3. Upload your clipboard with `/gcopy` to Redis, it is important that your destination server for pasting has Volans and this feature enabled and also make sure everything is operational/configured.
+4. You can change server after receiving a feedback message on your chat.
+5. Take sure that the destination server you are at, has a clear clipboard (`/clearclipboard`) because without a clean clipboard, it is possible to have issues.
+6. Load with `/gpaste` your clipboard from Redis.
+7. You now can paste your build as usual with `//paste` (and optional parameter like -e, -a or -b).
 ### Pictures
-- Aktuell keine
+- None at the moment
 ### Videos
-- Aktuell keine
+- None at the moment

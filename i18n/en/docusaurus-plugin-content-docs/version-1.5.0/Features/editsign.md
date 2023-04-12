@@ -4,17 +4,17 @@ id: editsign
 title: Edit Sign
 ---
 ### Description
-* Mit dem Editieren-von-Schildern-Feature lassen sich bei Minecraft Versionen unter <1.20 mit diesem Plugin Schilder wieder bearbeiten, obwohl sie schon gesetzt und beschriftet wurden. Nach der **1.20** wird das Wiederbearbeiten dank **Minecraft ein Vanilla Feature**.
-### Konfiguration
+* With the edit-sign feature you can re-edit signs which are already set and written on Minecraft versions **<1.20**. After 1.20 the re-edit is **possible in vanilla** thanks to Minecraft.
+### Configuration
 Add in the list `features` in the section `volans` the string `"EditSign"`.
 ### Permissions
-Siehe [hier](/docs/Permissions/#edit-sign)
-### Benutzung
-1. Setze ein Schild deiner Wahl und beschrifte es.
-2. Schließe das Schildmenü
-3. Rechtsklicke ohne ein Item in der Hand auf das Schild
-4. Voilà! Das Menü öffnet sich wieder.
-### Bilder
-- Aktuell keine
+See [here](/docs/Permissions/#edit-sign)
+### Utilisation
+1. Place a sign of your choice and edit it.
+2. Close the sign menu.
+3. Right-click without an item in your hand on the sign.
+4. That's it! The menu is opening again.
+### Pictures
+- None at the moment
 ### Videos
-- Aktuell keine
+- None at the moment

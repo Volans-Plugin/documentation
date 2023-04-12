@@ -5,13 +5,13 @@ title: Custom Biome / Biome Editor
 ---
 ### Description
 * 
-### Konfiguration
+### Configuration
 Add in the list `features` in the section `volans` the string `"CustomBiome"`.
 ### Permissions
-Siehe [hier](/docs/Permissions/#biome-editor)
-### Benutzung
+See [here](/docs/Permissions/#biome-editor)
+### Utilisation
 1. 
-### Bilder
-- Aktuell keine
+### Pictures
+- None at the moment
 ### Videos
-- Aktuell keine
+- None at the moment

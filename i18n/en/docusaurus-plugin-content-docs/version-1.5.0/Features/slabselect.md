@@ -3,17 +3,17 @@ sidebar_position: 17
 id: slabselect
 title: Slab Select
 ---
-### Beschreibung
-* Mit dem Slab Auswahl Feature kann man zwei aufeinanderliegende Slabs individuell abbauen, ohne beide Slabs abzubauen, nützlich um dünne Äste bei Bäumen zu setzen oder Dekoration zu verändern.
-### Konfiguration
+### Description
+* With the Slab Select feature you can break two slabs on top of one another individually without breaking both. This is useful to set thin branches on trees or to change decoration.
+### Configuration
 Add in the list `features` in the section `volans` the string `"SlabSelect"`.
 ### Permissions
-Siehe [hier](/docs/Permissions/#slab-select)
-### Benutzung
-1. Setze ein beliebigen Slab/Stufe in der Welt und einen weiteren dazu, sodass beide Slabs/Stufen zu einem Block werden.
-2. Hau nun deinen Slab/Stufe ab, den du entfernen möchtest.
-3. Es sollte nun der Slab abgebaut sein, den du angeschaut hast, der andere sollte noch stehen.
-### Bilder
-- Aktuell keine
+See [here](/docs/Permissions/#slab-select)
+### Utilisation
+1. Set a slab of your choice and on top of it another one, so that both are counting as one block.
+2. Now break the slab you want to remove.
+3. It should be only one slab left which you didn't look at.
+### Pictures
+- None at the moment
 ### Videos
-- Aktuell keine
+- None at the moment

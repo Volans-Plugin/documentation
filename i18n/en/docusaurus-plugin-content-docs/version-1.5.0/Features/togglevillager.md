@@ -3,15 +3,15 @@ sidebar_position: 1
 id: togglevillager
 title: Toggle Villager
 ---
-### Beschreibung
-* Wenn du nervige Villager hast, z.B. auf einer Flat Welt oder einfach welche existieren, die du nicht haben willst, kannst du pro Welt schon existierende Villager in geladenen Chunks mit einem Befehl entfernen.
-### Konfiguration
+### Description
+* Villagers can be annoying sometimes on flat worlds for example. If you like to remove existing villagers for each world in loaded chunks, this feature is for you. 
+### Configuration
 Add in the list `features` in the section `volans` the string `"ToggleVillager"`.
 ### Permissions
-Siehe [hier](/docs/Permissions/#toggle-villager)
-### Benutzung
-1. Der Befehl `/togglevillager` entfernt pro Welt (!) mit dem zweiten Befehl `/volans confirm` die nervigen Villager. Die Permissions dazu müssen logischerweise für den Sender des Befehls gesetzt sein. 
-### Bilder
-- Aktuell keine
+See [here](/docs/Permissions/#toggle-villager)
+### Utilisation
+1. The command `/togglevillager` deletes for each (!) world with a second command `/volans confirm` all annoying villager. The permissions should be set for the command sender.
+### Pictures
+- None at the moment
 ### Videos
-- Aktuell keine
+- None at the moment

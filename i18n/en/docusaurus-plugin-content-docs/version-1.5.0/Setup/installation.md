@@ -4,14 +4,14 @@ id: installation
 title: Installation
 ---
 
-## Anforderungen
+## Requirements
 
-Um mit der Installation von Volans zu starten, stell bitte sicher, dass alle [**Anforderungen**](requirements) erfüllt sind.
+To start the installation of Volans, take sure your server met all [**requirements**](requirements).
 
 ## Installation
 
-1. Stoppe dein Server
-2. Lade die `Volans.jar` Datei in einem `plugins` Ordner hoch
-3. Starte deinen Server
-4. Stelle die [**Konfiguration**](configuration) ein
-5. Starte deinen Server neu, um alle Einstellungen zu übernehmen 
+1. Stop your server
+2. Upload the `Volans.jar` file into the `plugins` directory.
+3. Start your server.
+4. Configure Volans with [**configuration**](configuration).
+5. Restart your server to apply changes.
