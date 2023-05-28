@@ -138,6 +138,15 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Imprint',
+                href: 'imprint',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Volans`,
       },
