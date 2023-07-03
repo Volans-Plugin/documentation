@@ -12,7 +12,7 @@ dependencies:
     specifier: 2.4.1
     version: 2.4.1(@algolia/client-search@4.17.0)(@types/node@18.15.11)(react-dom@17.0.2)(react@17.0.2)(ts-node@10.9.1)(typescript@5.0.2)
   '@docusaurus/theme-search-algolia':
-    specifier: ^2.4.1
+    specifier: ^2.2.0
     version: 2.4.1(@algolia/client-search@4.17.0)(@docusaurus/types@2.4.1)(@types/node@18.15.11)(react-dom@17.0.2)(react@17.0.2)(ts-node@10.9.1)(typescript@5.0.2)
   '@mdx-js/react':
     specifier: ^1.6.22
@@ -35,8 +35,8 @@ devDependencies:
     specifier: 2.4.1
     version: 2.4.1(react-dom@17.0.2)(react@17.0.2)
   '@tsconfig/docusaurus':
-    specifier: ^1.0.5
-    version: 1.0.5
+    specifier: ^2.0.0
+    version: 2.0.0
   typescript:
     specifier: ^5.0.0
     version: 5.0.2
@@ -2680,8 +2680,8 @@ packages:
     engines: {node: '>=10.13.0'}
     dev: false
 
-  /@tsconfig/docusaurus@1.0.5:
-    resolution: {integrity: sha512-KM/TuJa9fugo67dTGx+ktIqf3fVc077J6jwHu845Hex4EQf7LABlNonP/mohDKT0cmncdtlYVHHF74xR/YpThg==}
+  /@tsconfig/docusaurus@2.0.0:
+    resolution: {integrity: sha512-X5wptT7pXA/46/IRFTW76oR5GNjoy9qjNM/1JGhFV4QAsmLh3YUpJJA+Vpx7Ds6eEBxSxz1QrgoNEBy6rLVs8w==}
     dev: true
 
   /@tsconfig/node10@1.0.9:
