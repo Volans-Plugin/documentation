@@ -12,7 +12,7 @@ dependencies:
     specifier: 2.4.1
     version: 2.4.1(@algolia/client-search@4.17.0)(@types/node@18.15.11)(react-dom@17.0.2)(react@17.0.2)(ts-node@10.9.1)(typescript@5.0.2)
   '@docusaurus/theme-search-algolia':
-    specifier: ^2.4.1
+    specifier: ^2.2.0
     version: 2.4.1(@algolia/client-search@4.17.0)(@docusaurus/types@2.4.1)(@types/node@18.15.11)(react-dom@17.0.2)(react@17.0.2)(ts-node@10.9.1)(typescript@5.0.2)
   '@mdx-js/react':
     specifier: ^1.6.22
@@ -35,8 +35,8 @@ devDependencies:
     specifier: 2.4.1
     version: 2.4.1(react-dom@17.0.2)(react@17.0.2)
   '@tsconfig/docusaurus':
-    specifier: ^1.0.5
-    version: 1.0.5
+    specifier: ^2.0.0
+    version: 2.0.9
   typescript:
     specifier: ^5.0.0
     version: 5.0.2
@@ -2680,8 +2680,8 @@ packages:
     engines: {node: '>=10.13.0'}
     dev: false
 
-  /@tsconfig/docusaurus@1.0.5:
-    resolution: {integrity: sha512-KM/TuJa9fugo67dTGx+ktIqf3fVc077J6jwHu845Hex4EQf7LABlNonP/mohDKT0cmncdtlYVHHF74xR/YpThg==}
+  /@tsconfig/docusaurus@2.0.9:
+    resolution: {integrity: sha512-0jVxZCgy2v7TnJrW9kVNikNwJHeiWb68Zhiiw2vHw4tzBFSP5vS2zn3O5EY2oPEVz5dXZRkK7MnWG3Ay5q0mIg==}
     dev: true
 
   /@tsconfig/node10@1.0.9:
@@ -4804,6 +4804,7 @@ packages:
 
   /glob@7.2.3:
     resolution: {integrity: sha512-nFR0zLpU2YCaRxwoCJvL6UvCH2JFyFVIvwTLsIf21AuHlMskA1hhTdk+LlYJtOlYt9v6dvszD2BGRqBL+iQK9Q==}
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
     dependencies:
       fs.realpath: 1.0.0
       inflight: 1.0.6
@@ -5222,6 +5223,7 @@ packages:
 
   /inflight@1.0.6:
     resolution: {integrity: sha512-k92I/b08q4wvFscXCLvqfsHCrjrF7yiXsQuIVvVE7N82W3+aqpzuUdBbfhWcy/FZR3/4IgflMgKLOsvPDrGCJA==}
+    deprecated: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
     dependencies:
       once: 1.4.0
       wrappy: 1.0.2
